@@ -14,8 +14,15 @@ Edit Kamus.txt
 
 > https://itnext.io/vscode-find-and-replace-regex-super-powers-c7f8be0fa80f
 2. Convert ke opf
-a. tab2opf : https://github.com/nyg/tab2opf
-3. Convert dengan mobigen
+>tab2opf : https://github.com/nyg/tab2opf
+3. Convert ke format mobi dengan mobigen
       
+Another useful links :
+> https://jakemccrary.com/blog/2020/11/11/creating-a-custom-kindle-dictionary/
 
+> https://www.epubor.com/kindle-dictionary-download.html
+
+> https://en.bookfere.com/dict
+
+> https://kdp.amazon.com/en_US/help/topic/G2HXJS944GL88DNV#:~:text=Kindle%20Paperwhite%3A%20Go%20to%20Home,%3E%20Dictionaries%20%3E%20%5BSource%20Language%5D
 
