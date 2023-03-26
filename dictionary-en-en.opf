@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid">
+
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="uid">d58df51b-3964-4ef1-a2a8-c7b58de9d4ff</dc:identifier>
+    <dc:title>KamusEN-ID</dc:title>
+    <dc:language>en</dc:language>
+    <x-metadata>
+        <DictionaryInLanguage>EN</DictionaryInLanguage>
+        <DictionaryOutLanguage>ID</DictionaryOutLanguage>
+    </x-metadata>
+</metadata>
+
+<manifest>
+    <item id="dictionary0" href="dictionary-en-en-0.html" media-type="application/xhtml+xml"/>
+    <item id="dictionary1" href="dictionary-en-en-1.html" media-type="application/xhtml+xml"/>
+    <item id="dictionary2" href="dictionary-en-en-2.html" media-type="application/xhtml+xml"/>
+    <item href="cover.jpg" id="my-cover-image" media-type="image/jpeg" /&>
+</manifest>
+
+<spine>
+    <itemref idref="dictionary0"/>
+    <itemref idref="dictionary1"/>
+    <itemref idref="dictionary2"/>
+</spine>
+
+<guide>
+    <reference type="search" title="Dictionary Search" onclick= "index_search()"/>
+</guide>
+
+</package>
